@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ehlimana\\.nuget\\packages\\": {}
+    "C:\\Users\\Amira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ehlimana\\source\\repos\\Striparnica\\Striparnica.csproj",
+      "projectUniqueName": "C:\\Users\\Amira\\Desktop\\Lab1\\VerifikacijaIValidacijaSoftvera-Vjezbe\\Striparnica.csproj",
       "projectName": "Striparnica",
-      "projectPath": "C:\\Users\\Ehlimana\\source\\repos\\Striparnica\\Striparnica.csproj",
-      "packagesPath": "C:\\Users\\Ehlimana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ehlimana\\source\\repos\\Striparnica\\obj\\",
+      "projectPath": "C:\\Users\\Amira\\Desktop\\Lab1\\VerifikacijaIValidacijaSoftvera-Vjezbe\\Striparnica.csproj",
+      "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amira\\Desktop\\Lab1\\VerifikacijaIValidacijaSoftvera-Vjezbe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ehlimana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
